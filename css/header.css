@@ -1,0 +1,41 @@
+.heading {
+        width: 100vw;
+        height: 87vh;
+        background-image: url(../img/hero14.jpg);
+        background-position: center bottom;
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+
+header {
+        width: 100%;
+        padding: 1rem 0;
+        border-bottom: solid 1px #fff;
+        background-color: rgba(245,245,245, 0.2);
+        position: fixed;
+        height: 8rem;
+}
+
+.logo {
+        color: #e6e6e6;
+}
+
+.nav-item {
+  margin-left: 0.8rem;
+}
+
+
+.nav-link {
+  color: #fffff0;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+ul {
+        list-style: none;
+}
+
+.intro {
+        position: absolute;
+        top: 30%;
+}

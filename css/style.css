@@ -1,0 +1,74 @@
+body {
+        font-size: 1.25rem;
+        color: #000;
+}
+
+a {
+        text-decoration: none;
+}
+
+.container {
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 2rem;
+        padding-right: 2rem;
+
+}
+
+.btn {
+        display: block;
+        margin: 2rem auto;
+        padding: 1rem 2rem;
+        border: none;
+        background-color: orange;
+        border-radius: 10px;
+        color: #fff;
+}
+
+.btn:hover {
+        background-color: transparent;
+        border: solid 2px #c5b358;
+        color: #c5b358;
+}
+
+
+
+
+/*.see-menu {
+        display: block;
+        margin: 1rem auto;
+}*/
+
+.img-outline {
+        outline: 0.5rem solid orange;
+        padding: 1rem;
+}
+
+.img-outline2 {
+        outline: 0.5rem solid green;
+        padding: 1rem;
+}
+
+.headline {
+        color: 	#483D8B;
+}
+
+.headline1 {
+        color: 	#C5B358;
+}
+
+.more-button {
+        color: 	#C5B358;
+        font-size: 1.5rem;
+}
+
+
+.img-break {
+        margin-top: 10rem;
+        background-image: url(../img/store1.jpg);
+        background-size: cover;
+        height: 60vh;
+        width: 100vw;
+        background-position: center top;
+}
